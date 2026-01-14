@@ -6,7 +6,7 @@
     "nom": "Arbre aux quarante écus",
     "latin": "Ginkgo biloba",
     "hauteur": 22,
-    "circonference": 355,
+    "circonference": 3.55,
     "localisation": {
       "lat": 48.82295102398932,
       "lon": 2.3374722492459696
@@ -19,7 +19,7 @@
     "nom": "Arbre à Gutta-Percha",
     "latin": "Eucommia ulmoides",
     "hauteur": 15,
-    "circonference": 195,
+    "circonference": 1.95,
     "localisation": {
       "lat": 48.857772504306936,
       "lon": 2.2972457519078247
@@ -32,7 +32,7 @@
     "nom": "Cyprès Chauve",
     "latin": "Taxodium distichum",
     "hauteur": 18,
-    "circonference": 305,
+    "circonference": 3.05,
     "localisation": {
       "lat": 48.8326105737739,
       "lon": 2.411452735786781
@@ -45,7 +45,7 @@
     "nom": "Chêne",
     "latin": "Quercus robur",
     "hauteur": 30,
-    "circonference": 475,
+    "circonference": 4.75,
     "localisation": {
       "lat": 48.84330787158673,
       "lon": 2.449742615426643
@@ -58,7 +58,7 @@
     "nom": "Sequoia",
     "latin": "Sequoiadendron giganteum",
     "hauteur": 30,
-    "circonference": 515,
+    "circonference": 5.15,
     "localisation": {
       "lat": 48.86945828649669,
       "lon": 2.2477134364964235
@@ -71,7 +71,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 35,
-    "circonference": 430,
+    "circonference": 4.3,
     "localisation": {
       "lat": 48.83213592811154,
       "lon": 2.4107051100274477
@@ -84,7 +84,7 @@
     "nom": "Oranger des Osages",
     "latin": "Maclura pomifera",
     "hauteur": 16,
-    "circonference": 215,
+    "circonference": 2.15,
     "localisation": {
       "lat": 48.88566917919937,
       "lon": 2.3447140639945374
@@ -97,7 +97,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 28,
-    "circonference": 505,
+    "circonference": 5.05,
     "localisation": {
       "lat": 48.865145918298765,
       "lon": 2.3133311934076186
@@ -110,7 +110,7 @@
     "nom": "Sequoia",
     "latin": "Sequoiadendron giganteum",
     "hauteur": 19,
-    "circonference": 360,
+    "circonference": 3.6,
     "localisation": {
       "lat": 48.86697545705264,
       "lon": 2.319515215634701
@@ -123,7 +123,7 @@
     "nom": "Orme de Sibérie",
     "latin": "Zelkova carpinifolia",
     "hauteur": 16,
-    "circonference": 321,
+    "circonference": 3.21,
     "localisation": {
       "lat": 48.86254970665174,
       "lon": 2.237898404323531
@@ -136,7 +136,7 @@
     "nom": "Arbre aux quarante écus",
     "latin": "Ginkgo biloba",
     "hauteur": 16,
-    "circonference": 180,
+    "circonference": 1.8,
     "localisation": {
       "lat": 48.86385698772611,
       "lon": 2.3966371547354712
@@ -149,7 +149,7 @@
     "nom": "Hêtre",
     "latin": "Fagus sylvatica",
     "hauteur": 10,
-    "circonference": 150,
+    "circonference": 1.5,
     "localisation": {
       "lat": 48.836425026086125,
       "lon": 2.2901856276830106
@@ -162,7 +162,7 @@
     "nom": "Chêne",
     "latin": "Quercus frainetto",
     "hauteur": 14,
-    "circonference": 203,
+    "circonference": 2.03,
     "localisation": {
       "lat": 48.83881631672055,
       "lon": 2.4065668582736595
@@ -175,7 +175,7 @@
     "nom": "Chêne",
     "latin": "Quercus ilex",
     "hauteur": 23,
-    "circonference": 200,
+    "circonference": 2.0,
     "localisation": {
       "lat": 48.81838918662161,
       "lon": 2.4379185082282153
@@ -188,7 +188,7 @@
     "nom": "Magnolia",
     "latin": "Magnolia grandiflora",
     "hauteur": 10,
-    "circonference": 190,
+    "circonference": 1.9,
     "localisation": {
       "lat": 48.847281171674815,
       "lon": 2.2519271322165757
@@ -201,7 +201,7 @@
     "nom": "Marronnier",
     "latin": "Aesculus hippocastanum",
     "hauteur": 26,
-    "circonference": 390,
+    "circonference": 3.9,
     "localisation": {
       "lat": 48.88233169960192,
       "lon": 2.3102453885200793
@@ -214,7 +214,7 @@
     "nom": "Pin",
     "latin": "Pinus nigra subsp. laricio",
     "hauteur": 20,
-    "circonference": 250,
+    "circonference": 2.5,
     "localisation": {
       "lat": 48.86300960058363,
       "lon": 2.241773747107387
@@ -227,7 +227,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 35,
-    "circonference": 528,
+    "circonference": 5.28,
     "localisation": {
       "lat": 48.83416244901348,
       "lon": 2.382559592189677
@@ -240,7 +240,7 @@
     "nom": "Pterocarya",
     "latin": "Pterocarya fraxinifolia",
     "hauteur": 30,
-    "circonference": 435,
+    "circonference": 4.35,
     "localisation": {
       "lat": 48.88723844266431,
       "lon": 2.3171697823653368
@@ -253,7 +253,7 @@
     "nom": "Arbre aux quarante écus",
     "latin": "Ginkgo biloba",
     "hauteur": 20,
-    "circonference": 176,
+    "circonference": 1.76,
     "localisation": {
       "lat": 48.863392800334886,
       "lon": 2.396846539577293
@@ -266,7 +266,7 @@
     "nom": "Erable",
     "latin": "Acer monspessulanum",
     "hauteur": 11,
-    "circonference": 265,
+    "circonference": 2.65,
     "localisation": {
       "lat": 48.86193298907538,
       "lon": 2.39871043491187
@@ -279,7 +279,7 @@
     "nom": "Catalpa",
     "latin": "Catalpa bignonioides",
     "hauteur": 24,
-    "circonference": 397,
+    "circonference": 3.97,
     "localisation": {
       "lat": 48.87408216637905,
       "lon": 2.2591649767628947
@@ -292,7 +292,7 @@
     "nom": "Sequoia",
     "latin": "Sequoiadendron giganteum",
     "hauteur": 36,
-    "circonference": 645,
+    "circonference": 6.45,
     "localisation": {
       "lat": 48.864817944941024,
       "lon": 2.252676241273715
@@ -305,7 +305,7 @@
     "nom": "Platane",
     "latin": "Platanus orientalis",
     "hauteur": 26,
-    "circonference": 380,
+    "circonference": 3.8,
     "localisation": {
       "lat": 48.86612721531167,
       "lon": 2.2625479335146435
@@ -318,7 +318,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 28,
-    "circonference": 490,
+    "circonference": 4.9,
     "localisation": {
       "lat": 48.86261831314692,
       "lon": 2.289804250957924
@@ -331,7 +331,7 @@
     "nom": "Tilleul",
     "latin": "Tilia tomentosa",
     "hauteur": 23,
-    "circonference": 220,
+    "circonference": 2.2,
     "localisation": {
       "lat": 48.88302932605956,
       "lon": 2.3700627971907866
@@ -344,7 +344,7 @@
     "nom": "Libocèdre",
     "latin": "Calocedrus decurrens",
     "hauteur": 22,
-    "circonference": 210,
+    "circonference": 2.1,
     "localisation": {
       "lat": 48.86857287601004,
       "lon": 2.313325593912662
@@ -357,7 +357,7 @@
     "nom": "Tulipier",
     "latin": "Liriodendron tulipifera",
     "hauteur": 30,
-    "circonference": 310,
+    "circonference": 3.1,
     "localisation": {
       "lat": 48.83940515607196,
       "lon": 2.4333744865867284
@@ -370,7 +370,7 @@
     "nom": "Lilas de Perse",
     "latin": "Melia azedarach",
     "hauteur": 10,
-    "circonference": 155,
+    "circonference": 1.55,
     "localisation": {
       "lat": 48.85135747474973,
       "lon": 2.3251319038980833
@@ -383,7 +383,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 16,
-    "circonference": 153,
+    "circonference": 1.53,
     "localisation": {
       "lat": 48.86826040521768,
       "lon": 2.29356204045388
@@ -396,7 +396,7 @@
     "nom": "Noisetier de Byzance",
     "latin": "Corylus colurna",
     "hauteur": 16,
-    "circonference": 235,
+    "circonference": 2.35,
     "localisation": {
       "lat": 48.86483748918709,
       "lon": 2.3606255373544416
@@ -409,7 +409,7 @@
     "nom": "Cèdre",
     "latin": "Cedrus atlantica",
     "hauteur": 6,
-    "circonference": 225,
+    "circonference": 2.25,
     "localisation": {
       "lat": 48.86723653575138,
       "lon": 2.270294775073854
@@ -422,7 +422,7 @@
     "nom": "Platane",
     "latin": "Platanus orientalis",
     "hauteur": 24,
-    "circonference": 415,
+    "circonference": 4.15,
     "localisation": {
       "lat": 48.849351161300056,
       "lon": 2.3450329331937785
@@ -435,7 +435,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 31,
-    "circonference": 570,
+    "circonference": 5.7,
     "localisation": {
       "lat": 48.8804042053364,
       "lon": 2.3813826943597394
@@ -448,7 +448,7 @@
     "nom": "Plaqueminier",
     "latin": "Diospyros kaki",
     "hauteur": 14,
-    "circonference": 121,
+    "circonference": 1.21,
     "localisation": {
       "lat": 48.85580495491174,
       "lon": 2.300302928952899
@@ -461,7 +461,7 @@
     "nom": "Pterocarya",
     "latin": "Pterocarya fraxinifolia",
     "hauteur": 26,
-    "circonference": 371,
+    "circonference": 3.71,
     "localisation": {
       "lat": 48.88609867629193,
       "lon": 2.344680142737716
@@ -474,7 +474,7 @@
     "nom": "Arbre aux quarante écus",
     "latin": "Ginkgo biloba",
     "hauteur": 20,
-    "circonference": 430,
+    "circonference": 4.3,
     "localisation": {
       "lat": 48.823128861157336,
       "lon": 2.3387092581960562
@@ -487,7 +487,7 @@
     "nom": "Chêne",
     "latin": "Quercus frainetto",
     "hauteur": 15,
-    "circonference": 190,
+    "circonference": 1.9,
     "localisation": {
       "lat": 48.83964416264175,
       "lon": 2.300975580958026
@@ -500,7 +500,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 24,
-    "circonference": 340,
+    "circonference": 3.4,
     "localisation": {
       "lat": 48.83209713069508,
       "lon": 2.4112534014825378
@@ -513,7 +513,7 @@
     "nom": "Hêtre",
     "latin": "Fagus sylvatica",
     "hauteur": 22,
-    "circonference": 415,
+    "circonference": 4.15,
     "localisation": {
       "lat": 48.822604059870535,
       "lon": 2.3367012201599313
@@ -526,7 +526,7 @@
     "nom": "Pistachier",
     "latin": "Pistacia terebinthus",
     "hauteur": 12,
-    "circonference": 176,
+    "circonference": 1.76,
     "localisation": {
       "lat": 48.84590426389465,
       "lon": 2.2530267667948825
@@ -539,7 +539,7 @@
     "nom": "Figuier",
     "latin": "Ficus carica",
     "hauteur": 5,
-    "circonference": 120,
+    "circonference": 1.2,
     "localisation": {
       "lat": 48.828839497864905,
       "lon": 2.3497673462181323
@@ -552,7 +552,7 @@
     "nom": "Cyprès Chauve",
     "latin": "Taxodium distichum",
     "hauteur": 35,
-    "circonference": 282,
+    "circonference": 2.82,
     "localisation": {
       "lat": 48.86020278555863,
       "lon": 2.259509509728375
@@ -565,7 +565,7 @@
     "nom": "Erable",
     "latin": "Acer saccharinum",
     "hauteur": 20,
-    "circonference": 265,
+    "circonference": 2.65,
     "localisation": {
       "lat": 48.84278366994572,
       "lon": 2.2968613367111588
@@ -578,7 +578,7 @@
     "nom": "Araucaria",
     "latin": "Araucaria araucana",
     "hauteur": 12,
-    "circonference": 190,
+    "circonference": 1.9,
     "localisation": {
       "lat": 48.871660039793895,
       "lon": 2.250432980599612
@@ -591,7 +591,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 40,
-    "circonference": 503,
+    "circonference": 5.03,
     "localisation": {
       "lat": 48.86922606160851,
       "lon": 2.2460077731030017
@@ -604,7 +604,7 @@
     "nom": "Arbre aux mouchoirs",
     "latin": "Davidia involucrata var. vilmoriniana",
     "hauteur": 15,
-    "circonference": 122,
+    "circonference": 1.22,
     "localisation": {
       "lat": 48.87312360126717,
       "lon": 2.2487684479171466
@@ -617,7 +617,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 26,
-    "circonference": 495,
+    "circonference": 4.95,
     "localisation": {
       "lat": 48.833818755961744,
       "lon": 2.4112193540499645
@@ -630,7 +630,7 @@
     "nom": "Tamaris",
     "latin": "Tamarix sp.",
     "hauteur": 3,
-    "circonference": 230,
+    "circonference": 2.3,
     "localisation": {
       "lat": 48.85235484734731,
       "lon": 2.3518099200412093
@@ -643,7 +643,7 @@
     "nom": "Hêtre",
     "latin": "Fagus sylvatica",
     "hauteur": 19,
-    "circonference": 286,
+    "circonference": 2.86,
     "localisation": {
       "lat": 48.881009269624606,
       "lon": 2.3992230715237226
@@ -656,7 +656,7 @@
     "nom": "Erable",
     "latin": "Acer pseudoplatanus",
     "hauteur": 28,
-    "circonference": 437,
+    "circonference": 4.37,
     "localisation": {
       "lat": 48.87870298813323,
       "lon": 2.306474175057195
@@ -669,7 +669,7 @@
     "nom": "Chêne",
     "latin": "Quercus suber subsp. Occidentalis",
     "hauteur": 11,
-    "circonference": 232,
+    "circonference": 2.32,
     "localisation": {
       "lat": 48.84716612498836,
       "lon": 2.25292826534423
@@ -682,7 +682,7 @@
     "nom": "Cèdre",
     "latin": "Cedrus atlantica",
     "hauteur": 22,
-    "circonference": 430,
+    "circonference": 4.3,
     "localisation": {
       "lat": 48.82012550824947,
       "lon": 2.445117758922643
@@ -695,7 +695,7 @@
     "nom": "Arbre à Gutta-Percha",
     "latin": "Eucommia ulmoides",
     "hauteur": 14,
-    "circonference": 133,
+    "circonference": 1.33,
     "localisation": {
       "lat": 48.85780390697412,
       "lon": 2.3957407859010877
@@ -708,7 +708,7 @@
     "nom": "Cedrele",
     "latin": "Toona sinensis",
     "hauteur": 16,
-    "circonference": 234,
+    "circonference": 2.34,
     "localisation": {
       "lat": 48.89335545445399,
       "lon": 2.3468204796812233
@@ -721,7 +721,7 @@
     "nom": "If",
     "latin": "Taxus baccata",
     "hauteur": 13,
-    "circonference": 303,
+    "circonference": 3.03,
     "localisation": {
       "lat": 48.8858144164929,
       "lon": 2.3301156114644277
@@ -734,7 +734,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 27,
-    "circonference": 360,
+    "circonference": 3.6,
     "localisation": {
       "lat": 48.887747513088314,
       "lon": 2.343508517049766
@@ -747,7 +747,7 @@
     "nom": "Magnolia",
     "latin": "Magnolia grandiflora",
     "hauteur": 10,
-    "circonference": 110,
+    "circonference": 1.1,
     "localisation": {
       "lat": 48.84726186005018,
       "lon": 2.2525207708771546
@@ -760,7 +760,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 30,
-    "circonference": 580,
+    "circonference": 5.8,
     "localisation": {
       "lat": 48.88040062826234,
       "lon": 2.381298898975054
@@ -773,7 +773,7 @@
     "nom": "Chêne",
     "latin": "Quercus robur",
     "hauteur": 30,
-    "circonference": 435,
+    "circonference": 4.35,
     "localisation": {
       "lat": 48.83417403143496,
       "lon": 2.461320616442216
@@ -786,7 +786,7 @@
     "nom": "Tulipier",
     "latin": "Liriodendron tulipifera",
     "hauteur": 21,
-    "circonference": 225,
+    "circonference": 2.25,
     "localisation": {
       "lat": 48.83198939877914,
       "lon": 2.4119924411807285
@@ -799,7 +799,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 24,
-    "circonference": 450,
+    "circonference": 4.5,
     "localisation": {
       "lat": 48.873134003251636,
       "lon": 2.286795534244933
@@ -812,7 +812,7 @@
     "nom": "Magnolia",
     "latin": "Magnolia grandiflora",
     "hauteur": 10,
-    "circonference": 195,
+    "circonference": 1.95,
     "localisation": {
       "lat": 48.84749478298023,
       "lon": 2.2519598546499586
@@ -825,7 +825,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 30,
-    "circonference": 615,
+    "circonference": 6.15,
     "localisation": {
       "lat": 48.839515960696176,
       "lon": 2.4333342648445497
@@ -838,7 +838,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 27,
-    "circonference": 510,
+    "circonference": 5.1,
     "localisation": {
       "lat": 48.829253212711265,
       "lon": 2.41318206133542
@@ -851,7 +851,7 @@
     "nom": "Hêtre",
     "latin": "Fagus sylvatica",
     "hauteur": 15,
-    "circonference": 317,
+    "circonference": 3.17,
     "localisation": {
       "lat": 48.8217706919343,
       "lon": 2.3229013014056803
@@ -864,7 +864,7 @@
     "nom": "Pterocarya",
     "latin": "Pterocarya fraxinifolia",
     "hauteur": 26,
-    "circonference": 380,
+    "circonference": 3.8,
     "localisation": {
       "lat": 48.87668684927223,
       "lon": 2.3319088954708587
@@ -877,7 +877,7 @@
     "nom": "Magnolia",
     "latin": "Magnolia grandiflora",
     "hauteur": 12,
-    "circonference": 163,
+    "circonference": 1.63,
     "localisation": {
       "lat": 48.85741730392897,
       "lon": 2.3147251119535723
@@ -890,7 +890,7 @@
     "nom": "Mûrier",
     "latin": "Morus alba",
     "hauteur": 7,
-    "circonference": 80,
+    "circonference": 0.8,
     "localisation": {
       "lat": 48.85786707488421,
       "lon": 2.3481193019963156
@@ -903,7 +903,7 @@
     "nom": "Chêne",
     "latin": "Quercus cerris",
     "hauteur": 18,
-    "circonference": 190,
+    "circonference": 1.9,
     "localisation": {
       "lat": 48.83328754017152,
       "lon": 2.350246670407136
@@ -916,7 +916,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 35,
-    "circonference": 420,
+    "circonference": 4.2,
     "localisation": {
       "lat": 48.83208536842636,
       "lon": 2.41100088271903
@@ -929,7 +929,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 30,
-    "circonference": 365,
+    "circonference": 3.65,
     "localisation": {
       "lat": 48.832298926112465,
       "lon": 2.410629479082838
@@ -942,7 +942,7 @@
     "nom": "Marronnier",
     "latin": "Aesculus hippocastanum",
     "hauteur": 25,
-    "circonference": 335,
+    "circonference": 3.35,
     "localisation": {
       "lat": 48.88011122661839,
       "lon": 2.38566687472895
@@ -955,7 +955,7 @@
     "nom": "Figuier",
     "latin": "Ficus carica",
     "hauteur": 10,
-    "circonference": 145,
+    "circonference": 1.45,
     "localisation": {
       "lat": 48.858282014145885,
       "lon": 2.3626526679895483
@@ -968,7 +968,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 25,
-    "circonference": 651,
+    "circonference": 6.51,
     "localisation": {
       "lat": 48.822714704800305,
       "lon": 2.338688411499106
@@ -981,7 +981,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 26,
-    "circonference": 375,
+    "circonference": 3.75,
     "localisation": {
       "lat": 48.86125585510327,
       "lon": 2.3950502620751446
@@ -994,7 +994,7 @@
     "nom": "Cryptomeria",
     "latin": "Cryptomeria japonica",
     "hauteur": 13,
-    "circonference": 135,
+    "circonference": 1.35,
     "localisation": {
       "lat": 48.831216574809346,
       "lon": 2.4116774009977107
@@ -1007,7 +1007,7 @@
     "nom": "Robinier",
     "latin": "Robinia pseudoacacia",
     "hauteur": 15,
-    "circonference": 365,
+    "circonference": 3.65,
     "localisation": {
       "lat": 48.852191438077774,
       "lon": 2.3472861856377225
@@ -1020,7 +1020,7 @@
     "nom": "Sophora",
     "latin": "Styphnolobium japonicum",
     "hauteur": 18,
-    "circonference": 320,
+    "circonference": 3.2,
     "localisation": {
       "lat": 48.88595256938292,
       "lon": 2.3416816325136365
@@ -1033,7 +1033,7 @@
     "nom": "Hêtre",
     "latin": "Fagus sylvatica",
     "hauteur": 11,
-    "circonference": 140,
+    "circonference": 1.4,
     "localisation": {
       "lat": 48.83634112211272,
       "lon": 2.290209487098298
@@ -1046,7 +1046,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 26,
-    "circonference": 390,
+    "circonference": 3.9,
     "localisation": {
       "lat": 48.824133933850376,
       "lon": 2.3379656946839114
@@ -1059,7 +1059,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 27,
-    "circonference": 335,
+    "circonference": 3.35,
     "localisation": {
       "lat": 48.83222068433813,
       "lon": 2.4105682257334626
@@ -1072,7 +1072,7 @@
     "nom": "Grenadier",
     "latin": "Punica granatum",
     "hauteur": 3,
-    "circonference": 30,
+    "circonference": 0.3,
     "localisation": {
       "lat": 48.8856415357491,
       "lon": 2.3438204500912323
@@ -1085,7 +1085,7 @@
     "nom": "Libocèdre",
     "latin": "Calocedrus decurrens",
     "hauteur": 20,
-    "circonference": 210,
+    "circonference": 2.1,
     "localisation": {
       "lat": 48.84087770055659,
       "lon": 2.3921128567976853
@@ -1098,7 +1098,7 @@
     "nom": "Sequoia",
     "latin": "Sequoiadendron giganteum",
     "hauteur": 29,
-    "circonference": 335,
+    "circonference": 3.35,
     "localisation": {
       "lat": 48.87647407797467,
       "lon": 2.2574997537301686
@@ -1111,7 +1111,7 @@
     "nom": "Hêtre",
     "latin": "Fagus sylvatica",
     "hauteur": 5,
-    "circonference": 140,
+    "circonference": 1.4,
     "localisation": {
       "lat": 48.823345239668,
       "lon": 2.339683429513845
@@ -1124,7 +1124,7 @@
     "nom": "Hêtre",
     "latin": "Fagus sylvatica",
     "hauteur": 3,
-    "circonference": 110,
+    "circonference": 1.1,
     "localisation": {
       "lat": 48.84488752280194,
       "lon": 2.3536691618715215
@@ -1137,7 +1137,7 @@
     "nom": "Plaqueminier",
     "latin": "Diospyros lotus",
     "hauteur": 13,
-    "circonference": 155,
+    "circonference": 1.55,
     "localisation": {
       "lat": 48.887281093948566,
       "lon": 2.317086624096253
@@ -1150,7 +1150,7 @@
     "nom": "Plaqueminier",
     "latin": "Diospyros lotus",
     "hauteur": 10,
-    "circonference": 115,
+    "circonference": 1.15,
     "localisation": {
       "lat": 48.86208456965049,
       "lon": 2.398576913530044
@@ -1163,7 +1163,7 @@
     "nom": "Magnolia",
     "latin": "Magnolia grandiflora",
     "hauteur": 10,
-    "circonference": 145,
+    "circonference": 1.45,
     "localisation": {
       "lat": 48.84748765918048,
       "lon": 2.2525338764384095
@@ -1176,7 +1176,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 32,
-    "circonference": 400,
+    "circonference": 4.0,
     "localisation": {
       "lat": 48.832403483414666,
       "lon": 2.4114617313961713
@@ -1189,7 +1189,7 @@
     "nom": "Orme",
     "latin": "Ulmus minor",
     "hauteur": 12,
-    "circonference": 200,
+    "circonference": 2.0,
     "localisation": {
       "lat": 48.855759637809996,
       "lon": 2.353991516603295
@@ -1202,7 +1202,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 35,
-    "circonference": 410,
+    "circonference": 4.1,
     "localisation": {
       "lat": 48.832341186823534,
       "lon": 2.411435728413432
@@ -1215,7 +1215,7 @@
     "nom": "Catalpa",
     "latin": "Catalpa speciosa",
     "hauteur": 3,
-    "circonference": 200,
+    "circonference": 2.0,
     "localisation": {
       "lat": 48.84758185001984,
       "lon": 2.2532779021891103
@@ -1228,7 +1228,7 @@
     "nom": "Arbre aux quarante écus",
     "latin": "Ginkgo biloba",
     "hauteur": 25,
-    "circonference": 434,
+    "circonference": 4.34,
     "localisation": {
       "lat": 48.847636383918534,
       "lon": 2.252746487560186
@@ -1241,7 +1241,7 @@
     "nom": "Bouleau",
     "latin": "Betula nigra",
     "hauteur": 20,
-    "circonference": 228,
+    "circonference": 2.28,
     "localisation": {
       "lat": 48.84778224739848,
       "lon": 2.2537228817251775
@@ -1254,7 +1254,7 @@
     "nom": "Tulipier",
     "latin": "Liriodendron tulipifera",
     "hauteur": 18,
-    "circonference": 253,
+    "circonference": 2.53,
     "localisation": {
       "lat": 48.8946383149938,
       "lon": 2.326851263435612
@@ -1267,7 +1267,7 @@
     "nom": "Hêtre",
     "latin": "Fagus sylvatica",
     "hauteur": 6,
-    "circonference": 205,
+    "circonference": 2.05,
     "localisation": {
       "lat": 48.85875368149572,
       "lon": 2.2954992515919237
@@ -1280,7 +1280,7 @@
     "nom": "Platane",
     "latin": "Platanus orientalis",
     "hauteur": 31,
-    "circonference": 645,
+    "circonference": 6.45,
     "localisation": {
       "lat": 48.87858281831969,
       "lon": 2.307559794134397
@@ -1293,7 +1293,7 @@
     "nom": "Chicot du Canada",
     "latin": "Gymnocladus dioica",
     "hauteur": 11,
-    "circonference": 155,
+    "circonference": 1.55,
     "localisation": {
       "lat": 48.8615163413308,
       "lon": 2.3990659845340123
@@ -1306,7 +1306,7 @@
     "nom": "Platane",
     "latin": "Platanus orientalis",
     "hauteur": 25,
-    "circonference": 248,
+    "circonference": 2.48,
     "localisation": {
       "lat": 48.8702224623106,
       "lon": 2.2481923753778386
@@ -1319,7 +1319,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 25,
-    "circonference": 380,
+    "circonference": 3.8,
     "localisation": {
       "lat": 48.84929027609924,
       "lon": 2.3562112348828954
@@ -1332,7 +1332,7 @@
     "nom": "Cyprès Chauve",
     "latin": "Taxodium distichum",
     "hauteur": 30,
-    "circonference": 330,
+    "circonference": 3.3,
     "localisation": {
       "lat": 48.86326316465342,
       "lon": 2.2407247706019686
@@ -1345,7 +1345,7 @@
     "nom": "Orme de Sibérie",
     "latin": "Zelkova carpinifolia",
     "hauteur": 20,
-    "circonference": 267,
+    "circonference": 2.67,
     "localisation": {
       "lat": 48.849946473217486,
       "lon": 2.344223855945223
@@ -1358,7 +1358,7 @@
     "nom": "Marronnier",
     "latin": "Aesculus hippocastanum",
     "hauteur": 22,
-    "circonference": 363,
+    "circonference": 3.63,
     "localisation": {
       "lat": 48.85974252900819,
       "lon": 2.399983132227271
@@ -1371,7 +1371,7 @@
     "nom": "Platane",
     "latin": "Platanus orientalis",
     "hauteur": 24,
-    "circonference": 470,
+    "circonference": 4.7,
     "localisation": {
       "lat": 48.84931650431551,
       "lon": 2.345186352900594
@@ -1384,7 +1384,7 @@
     "nom": "Hêtre",
     "latin": "Fagus sylvatica",
     "hauteur": 17,
-    "circonference": 330,
+    "circonference": 3.3,
     "localisation": {
       "lat": 48.86420036288687,
       "lon": 2.267960367030491
@@ -1397,7 +1397,7 @@
     "nom": "Tulipier",
     "latin": "Liriodendron tulipifera",
     "hauteur": 22,
-    "circonference": 211,
+    "circonference": 2.11,
     "localisation": {
       "lat": 48.84650062322207,
       "lon": 2.252267168332087
@@ -1410,7 +1410,7 @@
     "nom": "Erable",
     "latin": "Acer cappadocicum",
     "hauteur": 18,
-    "circonference": 325,
+    "circonference": 3.25,
     "localisation": {
       "lat": 48.84094206801011,
       "lon": 2.4641321193579624
@@ -1423,7 +1423,7 @@
     "nom": "Pterocarya",
     "latin": "Pterocarya fraxinifolia",
     "hauteur": 28,
-    "circonference": 418,
+    "circonference": 4.18,
     "localisation": {
       "lat": 48.863110850991035,
       "lon": 2.2618006494055565
@@ -1436,7 +1436,7 @@
     "nom": "Micocoulier",
     "latin": "Celtis koraiensis",
     "hauteur": 9,
-    "circonference": 177,
+    "circonference": 1.77,
     "localisation": {
       "lat": 48.84603981120142,
       "lon": 2.2540662827092532
@@ -1449,7 +1449,7 @@
     "nom": "Marronnier",
     "latin": "Aesculus hippocastanum",
     "hauteur": 21,
-    "circonference": 370,
+    "circonference": 3.7,
     "localisation": {
       "lat": 48.88447160112603,
       "lon": 2.343107754999368
@@ -1462,7 +1462,7 @@
     "nom": "Micocoulier",
     "latin": "Celtis koraiensis",
     "hauteur": 18,
-    "circonference": 290,
+    "circonference": 2.9,
     "localisation": {
       "lat": 48.84264131753845,
       "lon": 2.296091104016332
@@ -1475,7 +1475,7 @@
     "nom": "Cyprès Chauve",
     "latin": "Taxodium distichum",
     "hauteur": 32,
-    "circonference": 362,
+    "circonference": 3.62,
     "localisation": {
       "lat": 48.86017854998492,
       "lon": 2.2595002583960007
@@ -1488,7 +1488,7 @@
     "nom": "Chicot du Canada",
     "latin": "Gymnocladus dioica",
     "hauteur": 13,
-    "circonference": 180,
+    "circonference": 1.8,
     "localisation": {
       "lat": 48.869150319994105,
       "lon": 2.272252012873678
@@ -1501,7 +1501,7 @@
     "nom": "Noyer",
     "latin": "Juglans nigra",
     "hauteur": 26,
-    "circonference": 595,
+    "circonference": 5.95,
     "localisation": {
       "lat": 48.83343581082583,
       "lon": 2.4127979326349194
@@ -1514,7 +1514,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 32,
-    "circonference": 360,
+    "circonference": 3.6,
     "localisation": {
       "lat": 48.83221393770444,
       "lon": 2.411387908957162
@@ -1527,7 +1527,7 @@
     "nom": "Marronnier",
     "latin": "Aesculus hippocastanum",
     "hauteur": 26,
-    "circonference": 385,
+    "circonference": 3.85,
     "localisation": {
       "lat": 48.86503551020094,
       "lon": 2.400931755232685
@@ -1540,7 +1540,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 30,
-    "circonference": 740,
+    "circonference": 7.4,
     "localisation": {
       "lat": 48.880337104666346,
       "lon": 2.381291342815737
@@ -1553,7 +1553,7 @@
     "nom": "Metaséquoia",
     "latin": "Metasequoia glyptostroboides",
     "hauteur": 19,
-    "circonference": 251,
+    "circonference": 2.51,
     "localisation": {
       "lat": 48.89393780726534,
       "lon": 2.3244386625077906
@@ -1566,7 +1566,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 35,
-    "circonference": 345,
+    "circonference": 3.45,
     "localisation": {
       "lat": 48.83208718588047,
       "lon": 2.4111234049339947
@@ -1579,7 +1579,7 @@
     "nom": "Noisetier de Byzance",
     "latin": "Corylus colurna",
     "hauteur": 20,
-    "circonference": 260,
+    "circonference": 2.6,
     "localisation": {
       "lat": 48.86159461179353,
       "lon": 2.291036270818486
@@ -1592,7 +1592,7 @@
     "nom": "Magnolia",
     "latin": "Magnolia grandiflora",
     "hauteur": 10,
-    "circonference": 205,
+    "circonference": 2.05,
     "localisation": {
       "lat": 48.85867307128757,
       "lon": 2.2583393528092057
@@ -1605,7 +1605,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 23,
-    "circonference": 425,
+    "circonference": 4.25,
     "localisation": {
       "lat": 48.85647419892438,
       "lon": 2.394618477682572
@@ -1618,7 +1618,7 @@
     "nom": "Chêne",
     "latin": "Quercus cerris",
     "hauteur": 7,
-    "circonference": 56,
+    "circonference": 0.56,
     "localisation": {
       "lat": 48.868295444671816,
       "lon": 2.3631894428551883
@@ -1631,7 +1631,7 @@
     "nom": "Hêtre",
     "latin": "Fagus sylvatica",
     "hauteur": 16,
-    "circonference": 239,
+    "circonference": 2.39,
     "localisation": {
       "lat": 48.87308761417698,
       "lon": 2.248570197282071
@@ -1644,7 +1644,7 @@
     "nom": "Plaqueminier",
     "latin": "Diospyros lotus",
     "hauteur": 13,
-    "circonference": 160,
+    "circonference": 1.6,
     "localisation": {
       "lat": 48.85579301773249,
       "lon": 2.300264322422256
@@ -1657,7 +1657,7 @@
     "nom": "Noisetier de Byzance",
     "latin": "Corylus colurna",
     "hauteur": 14,
-    "circonference": 205,
+    "circonference": 2.05,
     "localisation": {
       "lat": 48.872796324445474,
       "lon": 2.287540631362734
@@ -1670,7 +1670,7 @@
     "nom": "Hêtre",
     "latin": "Fagus sylvatica",
     "hauteur": 16,
-    "circonference": 420,
+    "circonference": 4.2,
     "localisation": {
       "lat": 48.839886238480304,
       "lon": 2.4338831267379852
@@ -1683,7 +1683,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 25,
-    "circonference": 490,
+    "circonference": 4.9,
     "localisation": {
       "lat": 48.85777577693094,
       "lon": 2.314530471693944
@@ -1696,7 +1696,7 @@
     "nom": "Noisetier de Byzance",
     "latin": "Corylus colurna",
     "hauteur": 20,
-    "circonference": 265,
+    "circonference": 2.65,
     "localisation": {
       "lat": 48.86185385430401,
       "lon": 2.379087765579776
@@ -1709,7 +1709,7 @@
     "nom": "Pterocarya",
     "latin": "Pterocarya fraxinifolia",
     "hauteur": 28,
-    "circonference": 465,
+    "circonference": 4.65,
     "localisation": {
       "lat": 48.860033380573846,
       "lon": 2.2691346154875127
@@ -1722,7 +1722,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 28,
-    "circonference": 520,
+    "circonference": 5.2,
     "localisation": {
       "lat": 48.86562176547551,
       "lon": 2.399941138607966
@@ -1735,7 +1735,7 @@
     "nom": "Cèdre",
     "latin": "Cedrus atlantica",
     "hauteur": 5,
-    "circonference": 35,
+    "circonference": 0.35,
     "localisation": {
       "lat": 48.8497459363784,
       "lon": 2.3600393665237775
@@ -1748,7 +1748,7 @@
     "nom": "Sequoia",
     "latin": "Sequoia sempervirens",
     "hauteur": 18,
-    "circonference": 191,
+    "circonference": 1.91,
     "localisation": {
       "lat": 48.86245184718756,
       "lon": 2.289590998794443
@@ -1761,7 +1761,7 @@
     "nom": "Chêne",
     "latin": "Quercus ilex",
     "hauteur": 17,
-    "circonference": 270,
+    "circonference": 2.7,
     "localisation": {
       "lat": 48.82183889078391,
       "lon": 2.3357861462281275
@@ -1774,7 +1774,7 @@
     "nom": "Frêne",
     "latin": "Fraxinus excelsior",
     "hauteur": 21,
-    "circonference": 405,
+    "circonference": 4.05,
     "localisation": {
       "lat": 48.88193878808814,
       "lon": 2.398256522215651
@@ -1787,7 +1787,7 @@
     "nom": "Cèdre",
     "latin": "Cedrus atlantica",
     "hauteur": 25,
-    "circonference": 407,
+    "circonference": 4.07,
     "localisation": {
       "lat": 48.860809632390676,
       "lon": 2.391843780988739
@@ -1800,7 +1800,7 @@
     "nom": "Pterocarya",
     "latin": "Pterocarya fraxinifolia",
     "hauteur": 26,
-    "circonference": 416,
+    "circonference": 4.16,
     "localisation": {
       "lat": 48.885301992232506,
       "lon": 2.3427208867461027
@@ -1813,7 +1813,7 @@
     "nom": "Orme de Sibérie",
     "latin": "Zelkova carpinifolia",
     "hauteur": 27,
-    "circonference": 445,
+    "circonference": 4.45,
     "localisation": {
       "lat": 48.872641757654996,
       "lon": 2.281364053188093
@@ -1826,7 +1826,7 @@
     "nom": "Saule",
     "latin": "Salix babylonica",
     "hauteur": 10,
-    "circonference": 160,
+    "circonference": 1.6,
     "localisation": {
       "lat": 48.85774901106895,
       "lon": 2.339403945743016
@@ -1839,7 +1839,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 28,
-    "circonference": 395,
+    "circonference": 3.95,
     "localisation": {
       "lat": 48.832600635230804,
       "lon": 2.410534923538474
@@ -1852,7 +1852,7 @@
     "nom": "Savonnier",
     "latin": "Koelreuteria paniculata",
     "hauteur": 10,
-    "circonference": 174,
+    "circonference": 1.74,
     "localisation": {
       "lat": 48.87354080359454,
       "lon": 2.290450184951525
@@ -1865,7 +1865,7 @@
     "nom": "If",
     "latin": "Taxus baccata",
     "hauteur": 14,
-    "circonference": 150,
+    "circonference": 1.5,
     "localisation": {
       "lat": 48.877042696680654,
       "lon": 2.380508435099865
@@ -1878,7 +1878,7 @@
     "nom": "Sequoia",
     "latin": "Sequoiadendron giganteum",
     "hauteur": 33,
-    "circonference": 553,
+    "circonference": 5.53,
     "localisation": {
       "lat": 48.879752051499075,
       "lon": 2.3806624573767166
@@ -1891,7 +1891,7 @@
     "nom": "Noisetier de Byzance",
     "latin": "Corylus colurna",
     "hauteur": 16,
-    "circonference": 160,
+    "circonference": 1.6,
     "localisation": {
       "lat": 48.86583362319786,
       "lon": 2.4000829280727647
@@ -1904,7 +1904,7 @@
     "nom": "Pin",
     "latin": "Pinus nigra",
     "hauteur": 27,
-    "circonference": 353,
+    "circonference": 3.53,
     "localisation": {
       "lat": 48.86396626466461,
       "lon": 2.25135076402639
@@ -1917,7 +1917,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 30,
-    "circonference": 555,
+    "circonference": 5.55,
     "localisation": {
       "lat": 48.86524779924705,
       "lon": 2.3133517483388184
@@ -1930,7 +1930,7 @@
     "nom": "Pin",
     "latin": "Pinus bungeana",
     "hauteur": 16,
-    "circonference": 90,
+    "circonference": 0.9,
     "localisation": {
       "lat": 48.82131243940147,
       "lon": 2.455898290583926
@@ -1943,7 +1943,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 27,
-    "circonference": 470,
+    "circonference": 4.7,
     "localisation": {
       "lat": 48.876921252496146,
       "lon": 2.3467187956592257
@@ -1956,7 +1956,7 @@
     "nom": "If",
     "latin": "Taxus baccata",
     "hauteur": 5,
-    "circonference": 110,
+    "circonference": 1.1,
     "localisation": {
       "lat": 48.83207758657087,
       "lon": 2.411817132919325
@@ -1969,7 +1969,7 @@
     "nom": "Sequoia",
     "latin": "Sequoia sempervirens",
     "hauteur": 22,
-    "circonference": 402,
+    "circonference": 4.02,
     "localisation": {
       "lat": 48.82202510003852,
       "lon": 2.3362770386072533
@@ -1982,7 +1982,7 @@
     "nom": "Erable",
     "latin": "Acer monspessulanum",
     "hauteur": 17,
-    "circonference": 209,
+    "circonference": 2.09,
     "localisation": {
       "lat": 48.8462426877782,
       "lon": 2.2513754114123214
@@ -1995,7 +1995,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 25,
-    "circonference": 710,
+    "circonference": 7.1,
     "localisation": {
       "lat": 48.857838762835684,
       "lon": 2.293318744984814
@@ -2008,7 +2008,7 @@
     "nom": "Chêne",
     "latin": "Quercus ilex",
     "hauteur": 13,
-    "circonference": 242,
+    "circonference": 2.42,
     "localisation": {
       "lat": 48.84656522855311,
       "lon": 2.2524200093560425
@@ -2021,7 +2021,7 @@
     "nom": "Saule",
     "latin": "Salix babylonica",
     "hauteur": 10,
-    "circonference": 285,
+    "circonference": 2.85,
     "localisation": {
       "lat": 48.86481041559825,
       "lon": 2.233706017269413
@@ -2034,7 +2034,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 30,
-    "circonference": 600,
+    "circonference": 6.0,
     "localisation": {
       "lat": 48.83951761273883,
       "lon": 2.4334329799079644
@@ -2047,7 +2047,7 @@
     "nom": "Arbre aux quarante écus",
     "latin": "Ginkgo biloba",
     "hauteur": 17,
-    "circonference": 210,
+    "circonference": 2.1,
     "localisation": {
       "lat": 48.86289330961346,
       "lon": 2.261460571820377
@@ -2060,7 +2060,7 @@
     "nom": "Pterocarya",
     "latin": "Pterocarya stenoptera",
     "hauteur": 20,
-    "circonference": 587,
+    "circonference": 5.87,
     "localisation": {
       "lat": 48.84714674672381,
       "lon": 2.2519835357695808
@@ -2073,7 +2073,7 @@
     "nom": "Orme",
     "latin": "Ulmus glabra",
     "hauteur": 10,
-    "circonference": 180,
+    "circonference": 1.8,
     "localisation": {
       "lat": 48.852102027274,
       "lon": 2.350803868692218
@@ -2086,7 +2086,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 34,
-    "circonference": 604,
+    "circonference": 6.04,
     "localisation": {
       "lat": 48.887621002634695,
       "lon": 2.316435229873108
@@ -2099,7 +2099,7 @@
     "nom": "If",
     "latin": "Taxus baccata",
     "hauteur": 15,
-    "circonference": 250,
+    "circonference": 2.5,
     "localisation": {
       "lat": 48.87095202002159,
       "lon": 2.24799069253662
@@ -2112,7 +2112,7 @@
     "nom": "Arbre aux quarante écus",
     "latin": "Ginkgo biloba",
     "hauteur": 24,
-    "circonference": 295,
+    "circonference": 2.95,
     "localisation": {
       "lat": 48.88232085967634,
       "lon": 2.384087511289442
@@ -2125,7 +2125,7 @@
     "nom": "Sophora",
     "latin": "Styphnolobium japonicum",
     "hauteur": 12,
-    "circonference": 410,
+    "circonference": 4.1,
     "localisation": {
       "lat": 48.881465865661504,
       "lon": 2.3836769185762616
@@ -2138,7 +2138,7 @@
     "nom": "Cedrus",
     "latin": "Cedrus atlantica",
     "hauteur": 20,
-    "circonference": 321,
+    "circonference": 3.21,
     "localisation": {
       "lat": 48.85437944639592,
       "lon": 2.2986297357649716
@@ -2151,7 +2151,7 @@
     "nom": "Marronnier",
     "latin": "Aesculus pavia",
     "hauteur": 21,
-    "circonference": 310,
+    "circonference": 3.1,
     "localisation": {
       "lat": 48.89410543041636,
       "lon": 2.326277977159145
@@ -2164,7 +2164,7 @@
     "nom": "Platane",
     "latin": "Platanus orientalis",
     "hauteur": 28,
-    "circonference": 520,
+    "circonference": 5.2,
     "localisation": {
       "lat": 48.88460843256252,
       "lon": 2.3439162521533463
@@ -2177,7 +2177,7 @@
     "nom": "Aulne",
     "latin": "Alnus sp.",
     "hauteur": 20,
-    "circonference": 240,
+    "circonference": 2.4,
     "localisation": {
       "lat": 48.842820740868255,
       "lon": 2.297287282933029
@@ -2190,7 +2190,7 @@
     "nom": "Plaqueminier",
     "latin": "Diospyros virginiana",
     "hauteur": 15,
-    "circonference": 175,
+    "circonference": 1.75,
     "localisation": {
       "lat": 48.83138289735175,
       "lon": 2.4114313653728985
@@ -2203,7 +2203,7 @@
     "nom": "Plaqueminier",
     "latin": "Diospyros kaki",
     "hauteur": 16,
-    "circonference": 150,
+    "circonference": 1.5,
     "localisation": {
       "lat": 48.86482426835401,
       "lon": 2.2521678603116206
@@ -2216,7 +2216,7 @@
     "nom": "Chêne",
     "latin": "Quercus ilex",
     "hauteur": 11,
-    "circonference": 210,
+    "circonference": 2.1,
     "localisation": {
       "lat": 48.873680917218074,
       "lon": 2.2902524392466423
@@ -2229,7 +2229,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 45,
-    "circonference": 535,
+    "circonference": 5.35,
     "localisation": {
       "lat": 48.86711843883388,
       "lon": 2.252942110616445
@@ -2242,7 +2242,7 @@
     "nom": "Marronnier",
     "latin": "Aesculus hippocastanum",
     "hauteur": 11,
-    "circonference": 100,
+    "circonference": 1.0,
     "localisation": {
       "lat": 48.86147409766158,
       "lon": 2.3543747057171034
@@ -2255,7 +2255,7 @@
     "nom": "Cèdre",
     "latin": "Cedrus atlantica",
     "hauteur": 25,
-    "circonference": 358,
+    "circonference": 3.58,
     "localisation": {
       "lat": 48.82776601459065,
       "lon": 2.3592631864343536
@@ -2268,7 +2268,7 @@
     "nom": "Cèdre",
     "latin": "Cedrus atlantica",
     "hauteur": 20,
-    "circonference": 165,
+    "circonference": 1.65,
     "localisation": {
       "lat": 48.831967357296605,
       "lon": 2.325816813761035
@@ -2281,7 +2281,7 @@
     "nom": "Cèdre",
     "latin": "Cedrus atlantica",
     "hauteur": 25,
-    "circonference": 488,
+    "circonference": 4.88,
     "localisation": {
       "lat": 48.863390731261134,
       "lon": 2.2404811309796577
@@ -2294,7 +2294,7 @@
     "nom": "Noisetier de Byzance",
     "latin": "Corylus colurna",
     "hauteur": 19,
-    "circonference": 230,
+    "circonference": 2.3,
     "localisation": {
       "lat": 48.85278262187125,
       "lon": 2.351016049448295
@@ -2307,7 +2307,7 @@
     "nom": "Marronnier",
     "latin": "Aesculus hippocastanum",
     "hauteur": 22,
-    "circonference": 330,
+    "circonference": 3.3,
     "localisation": {
       "lat": 48.88007457788323,
       "lon": 2.3857046967000635
@@ -2320,7 +2320,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 27,
-    "circonference": 450,
+    "circonference": 4.5,
     "localisation": {
       "lat": 48.87153634227522,
       "lon": 2.2781692443163384
@@ -2333,7 +2333,7 @@
     "nom": "Arbre aux quarante écus",
     "latin": "Ginkgo biloba",
     "hauteur": 25,
-    "circonference": 270,
+    "circonference": 2.7,
     "localisation": {
       "lat": 48.833685773765076,
       "lon": 2.4211119323803025
@@ -2346,7 +2346,7 @@
     "nom": "Platane",
     "latin": "Platanus x hispanica",
     "hauteur": 29,
-    "circonference": 340,
+    "circonference": 3.4,
     "localisation": {
       "lat": 48.832179973741376,
       "lon": 2.410633579855882
@@ -2359,7 +2359,7 @@
     "nom": "Orme de Sibérie",
     "latin": "Zelkova sinica",
     "hauteur": 18,
-    "circonference": 320,
+    "circonference": 3.2,
     "localisation": {
       "lat": 48.821793247965076,
       "lon": 2.4548439563694626
@@ -2372,7 +2372,7 @@
     "nom": "Marronnier",
     "latin": "Aesculus hippocastanum",
     "hauteur": 17,
-    "circonference": 369,
+    "circonference": 3.69,
     "localisation": {
       "lat": 48.83303012348956,
       "lon": 2.3506965031403526

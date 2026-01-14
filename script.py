@@ -69,7 +69,12 @@ for r in load(SRC1):
             "nom": r.get("nom_francais") or r.get("libellefrancais") or r.get("genre"),
             "latin": latin_name(r),
             "hauteur": r.get("hauteurenm") or r.get("hauteur"),
-            "circonference": r.get("circonferenceencm"),
+            "circonference": (
+    r.get("circonferenceencm") / 100
+    if isinstance(r.get("circonferenceencm"), (int, float))
+    else None
+),
+
             "localisation": localise(r)
         })
 
